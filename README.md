@@ -28,6 +28,10 @@ Hello world
 ### New New addition
 
 more new data
+<<<<<<< HEAD
 
 # **njjn**
 
+=======
+**Text file created**
+>>>>>>> 6ba7ed0c0d7f6195d61502716c09ee418c8f438b
